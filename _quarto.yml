@@ -1,0 +1,8 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Tidy Finance Talks"
+  description: "A collection of talks"
+  site-url: https://talks.tidy-finance.org
