@@ -1,5 +1,21 @@
 ---
 metadata:
   pagetitle: "Tidy Finance Talks"
-  description-meta: "A collection of talks about Tidy Finance."
+  description-meta: "A collection of talks about Tidy Finance"
 ---
+
+## posit::conf(2024)
+
+You can find the slides [here](posit-conf-2024/slides.html).
+
+## useR conference 2024
+
+You can find the slides [here](user-conference-2024/slides.html).
+
+## R Consortium Webinar: Tidy Finance and Accessing Financial Data
+
+You can find the slides here.
+
+Details on the webinar are [here](https://www.r-consortium.org/new-webinar-tidy-finance-and-accessing-financial-data).
+
+A recording is available on [Youtube](https://www.youtube.com/watch?v=7jtX9Li_Ua4).
