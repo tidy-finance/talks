@@ -14,7 +14,7 @@ You can find the slides [here](user-conference-2024/slides.html).
 
 ## R Consortium Webinar: Tidy Finance and Accessing Financial Data
 
-You can find the slides here.
+You can find the slides [here](r-consortium/accessing-financial-data.html.
 
 Details on the webinar are [here](https://www.r-consortium.org/new-webinar-tidy-finance-and-accessing-financial-data).
 
