@@ -6,24 +6,30 @@ metadata:
 
 ## Tidy Finance Webinar Series for the R Consortium 
 
-You can find the slides here:
+Details on the webinar series are [here](https://www.r-consortium.org/tidy-finance-webinar-series)
 
-- [Optimize Portfolios using the Markowitz Model](r-consortium/markowitz-model.html)
+```{=html} 
+<iframe class="slide-deck" src="r-consortium/markowitz-model.html"></iframe>
+``` 
 
 ## posit::conf(2024)
-
-You can find the slides [here](posit-conf-2024/slides.html)
+ 
+```{=html} 
+<iframe class="slide-deck" src="posit-conf-2024/slides.html"></iframe>
+``` 
 
 ## useR conference 2024
 
-You can find the slides [here](user-conference-2024/slides.html)
+```{=html} 
+<iframe class="slide-deck" src="user-conference-2024/slides.html"></iframe>
+``` 
 
 ## R Consortium Webinar: Tidy Finance and Accessing Financial Data
 
 Details on the webinar are [here](https://www.r-consortium.org/new-webinar-tidy-finance-and-accessing-financial-data)
 
-You can find the slides [here](r-consortium/accessing-financial-data.html)
-
-A recording is available on [Youtube](https://www.youtube.com/watch?v=7jtX9Li_Ua4)
+```{=html} 
+<iframe class="slide-deck" src="r-consortium/accessing-financial-data.html"></iframe>
+``` 
 
 {{< video (https://www.youtube.com/watch?v=7jtX9Li_Ua4 >}}

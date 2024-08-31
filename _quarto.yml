@@ -43,7 +43,9 @@ format:
   html:
     theme:
       light: [cosmo, assets/scss/theme-light.scss]
-    css: assets/css/global.css
+    css:
+      - assets/css/global.css
+      - assets/css/talks.css
     toc: true
     section-divs: true
     number-sections: false
