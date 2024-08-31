@@ -3,6 +3,62 @@ project:
   output-dir: docs
 
 website:
-  title: "Tidy Finance Talks"
-  description: "A collection of talks"
+  title: "Tidy Finance"
+  description: "A collection of talks by the Tidy Finance team"
   site-url: https://talks.tidy-finance.org
+  image: assets/img/cover.png
+  repo-url: https://github.com/tidy-finance/talks
+  repo-actions: source
+  favicon: assets/img/favicon.png
+  open-graph: true
+  page-navigation: true
+  bread-crumbs: false
+  google-analytics:
+    tracking-id: "G-DH3KZSMJ5W"
+    anonymze-ip: true
+  cookie-consent:
+    type: express
+    style: interstitial
+    palette: light
+  navbar:
+    logo: assets/img/logo-website-white.png
+    pinned: false
+    left:
+      - href: https://www.tidy-finance.org/r/
+        text: R
+      - href: https://www.tidy-finance.org/python/
+        text: Python
+      - href: https://www.tidy-finance.org/blog.html
+        text: Blog
+      - href: https://www.tidy-finance.org/contribute.html
+        text: Contribute
+      - href: https://www.tidy-finance.org/support.html
+        text: Support
+      - href: https://www.etsy.com/shop/tidyswag/?etsrc=sdt&utm_source=tidy-finance.org
+        text: Swag
+      - href: https://www.tidy-finance.org/workshops/reproducible-research-workflows.html
+        text: Workshops
+
+format:
+  html:
+    theme:
+      light: [cosmo, assets/scss/theme-light.scss]
+    css: assets/css/global.css
+    toc: true
+    section-divs: true
+    number-sections: false
+    embed-resources: false
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-icon: false
+    link-external-newwindow: true
+    link-external-filter: '^(?:http:|https:)\/\/www\.tidy-finance\.org'
+    citations-hover: true
+    footnotes-hover: true
+    code-link: false
+    fig-align: "center"
+    fig-width: 7
+    fig-height: 5
+    fig-dpi: 300
+    lightbox: auto
+    include-after-body: assets/html/footer.html

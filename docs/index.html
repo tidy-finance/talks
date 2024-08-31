@@ -8,7 +8,7 @@
 
 <meta name="description" content="A collection of talks about Tidy Finance">
 
-<title>Tidy Finance Talks</title>
+<title>Tidy Finance Talks – Tidy Finance</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -25,11 +25,15 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./assets/img/favicon.png" rel="icon" type="image/png">
+<script src="site_libs/cookie-consent/cookie-consent.js"></script>
+<link href="site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -40,11 +44,11 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
-  "location": "sidebar",
+  "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
-  "panel-placement": "start",
-  "type": "textbox",
+  "panel-placement": "end",
+  "type": "overlay",
   "limit": 50,
   "keyboard-shortcut": [
     "f",
@@ -66,42 +70,153 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-DH3KZSMJ5W"></script>
+
+<script type="text/plain" cookie-consent="tracking">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-DH3KZSMJ5W', { 'anonymize_ip': true});
+</script>
+
+<script type="text/javascript" charset="UTF-8">
+document.addEventListener('DOMContentLoaded', function () {
+cookieconsent.run({
+  "notice_banner_type":"interstitial",
+  "consent_type":"express",
+  "palette":"light",
+  "language":"en",
+  "page_load_consent_levels":["strictly-necessary"],
+  "notice_banner_reject_button_hide":false,
+  "preferences_center_close_button_hide":false,
+  "website_name":""
+  ,
+"language":"en"
+  });
+});
+</script> 
+  
+<style>html{ scroll-behavior: smooth; }</style>
 
 
+<link rel="stylesheet" href="assets/css/global.css">
+<meta property="og:title" content="Tidy Finance Talks">
+<meta property="og:description" content="A collection of talks by the Tidy Finance team">
+<meta property="og:image" content="https://talks.tidy-finance.org/assets/img/cover.png">
+<meta property="og:site_name" content="Tidy Finance">
+<meta property="og:image:height" content="1800">
+<meta property="og:image:width" content="3000">
 </head>
 
-<body class="fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./assets/img/logo-website-white.png" alt="" class="navbar-logo">
+    </a>
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Tidy Finance</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.tidy-finance.org/r/"> 
+<span class="menu-text">R</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.tidy-finance.org/python/"> 
+<span class="menu-text">Python</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.tidy-finance.org/blog.html"> 
+<span class="menu-text">Blog</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.tidy-finance.org/contribute.html"> 
+<span class="menu-text">Contribute</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.tidy-finance.org/support.html"> 
+<span class="menu-text">Support</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.etsy.com/shop/tidyswag/?etsrc=sdt&amp;utm_source=tidy-finance.org"> 
+<span class="menu-text">Swag</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.tidy-finance.org/workshops/reproducible-research-workflows.html"> 
+<span class="menu-text">Workshops</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#tidy-finance-webinar-series-for-the-r-consortium" id="toc-tidy-finance-webinar-series-for-the-r-consortium" class="nav-link active" data-scroll-target="#tidy-finance-webinar-series-for-the-r-consortium">Tidy Finance Webinar Series for the R Consortium</a></li>
+  <li><a href="#positconf2024" id="toc-positconf2024" class="nav-link" data-scroll-target="#positconf2024">posit::conf(2024)</a></li>
+  <li><a href="#user-conference-2024" id="toc-user-conference-2024" class="nav-link" data-scroll-target="#user-conference-2024">useR conference 2024</a></li>
+  <li><a href="#r-consortium-webinar-tidy-finance-and-accessing-financial-data" id="toc-r-consortium-webinar-tidy-finance-and-accessing-financial-data" class="nav-link" data-scroll-target="#r-consortium-webinar-tidy-finance-and-accessing-financial-data">R Consortium Webinar: Tidy Finance and Accessing Financial Data</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/tidy-finance/talks/blob/main/index.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li></ul></div></nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 
 
 
+<section id="tidy-finance-webinar-series-for-the-r-consortium" class="level2">
+<h2 class="anchored" data-anchor-id="tidy-finance-webinar-series-for-the-r-consortium">Tidy Finance Webinar Series for the R Consortium</h2>
+<p>You can find the slides here:</p>
+<ul>
+<li><a href="r-consortium/markowitz-model.html">Optimize Portfolios using the Markowitz Model</a></li>
+</ul>
+</section>
 <section id="positconf2024" class="level2">
 <h2 class="anchored" data-anchor-id="positconf2024">posit::conf(2024)</h2>
-<p>You can find the slides <a href="posit-conf-2024/slides.html">here</a>.</p>
+<p>You can find the slides <a href="posit-conf-2024/slides.html">here</a></p>
 </section>
 <section id="user-conference-2024" class="level2">
 <h2 class="anchored" data-anchor-id="user-conference-2024">useR conference 2024</h2>
-<p>You can find the slides <a href="user-conference-2024/slides.html">here</a>.</p>
+<p>You can find the slides <a href="user-conference-2024/slides.html">here</a></p>
 </section>
 <section id="r-consortium-webinar-tidy-finance-and-accessing-financial-data" class="level2">
 <h2 class="anchored" data-anchor-id="r-consortium-webinar-tidy-finance-and-accessing-financial-data">R Consortium Webinar: Tidy Finance and Accessing Financial Data</h2>
-<p>You can find the slides here.</p>
-<p>Details on the webinar are <a href="https://www.r-consortium.org/new-webinar-tidy-finance-and-accessing-financial-data">here</a>.</p>
-<p>A recording is available on <a href="https://www.youtube.com/watch?v=7jtX9Li_Ua4">Youtube</a>.</p>
+<p>Details on the webinar are <a href="https://www.r-consortium.org/new-webinar-tidy-finance-and-accessing-financial-data">here</a></p>
+<p>You can find the slides <a href="r-consortium/accessing-financial-data.html">here</a></p>
+<p>A recording is available on <a href="https://www.youtube.com/watch?v=7jtX9Li_Ua4">Youtube</a></p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/7jtX9Li_Ua4" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 
 </section>
 
 </main> <!-- /main -->
+<div class="custom-footer">
+  <div class="copyright">© Christoph Frey, Christoph Scheuch, Stefan Voigt &amp; Patrick Weiss</div>
+  <a href="disclaimer.html">Disclaimer</a>
+  <a href="#" id="open_preferences_center">Cookie Preferences</a>
+</div>
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -194,7 +309,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/talks\.tidy-finance\.org");
+      var filterRegex = new RegExp("^(?:http:|https:)\/\/www\.tidy-finance\.org");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
@@ -208,6 +323,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
@@ -523,8 +643,22 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+
+<div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/tidy-finance/talks/blob/main/index.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li></ul></div></div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
 
 
 
 
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>
