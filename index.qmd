@@ -4,13 +4,15 @@ metadata:
   description-meta: "A collection of talks about Tidy Finance"
 ---
 
-## Tidy Finance Webinar Series for the R Consortium 
+## R Consortium Webinar: Optimize Portfolios using the Markowitz Model
 
 Details on the webinar series are [here](https://www.r-consortium.org/tidy-finance-webinar-series)
 
 ```{=html} 
 <iframe class="slide-deck" src="r-consortium/markowitz-model.html"></iframe>
 ``` 
+
+{{< video (https://www.youtube.com/watch?v=jsdOy0ftZiI&t=3s >}}
 
 ## posit::conf(2024)
  
