@@ -4,6 +4,14 @@ metadata:
   description-meta: "A collection of talks about Tidy Finance"
 ---
 
+## R Consortium Webinar: Evaluate Performance using the Capital Asset Pricing Model
+
+Details on the webinar series are [here](https://www.r-consortium.org/tidy-finance-webinar-series)
+
+```{=html} 
+<iframe class="slide-deck" src="r-consortium/capital-asset-pricing-model.html"></iframe>
+``` 
+
 ## R Consortium Webinar: Optimize Portfolios using the Markowitz Model
 
 Details on the webinar series are [here](https://www.r-consortium.org/tidy-finance-webinar-series)
