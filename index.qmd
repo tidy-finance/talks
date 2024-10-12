@@ -12,6 +12,8 @@ Details on the webinar series are [here](https://www.r-consortium.org/tidy-finan
 <iframe class="slide-deck" src="r-consortium/capital-asset-pricing-model.html"></iframe>
 ``` 
 
+{{< video (https://www.youtube.com/watch?v=9DdCSpuhkt4 >}}
+
 ## R Consortium Webinar: Optimize Portfolios using the Markowitz Model
 
 Details on the webinar series are [here](https://www.r-consortium.org/tidy-finance-webinar-series)
