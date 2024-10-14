@@ -6,7 +6,7 @@ metadata:
 
 ## R Consortium Webinar: Evaluate Performance using the Capital Asset Pricing Model
 
-Details on the webinar series are [here](https://www.r-consortium.org/tidy-finance-webinar-series)
+Details on the webinar series are [here](https://r-consortium.org/webinars/tidy-finance-webinar-series)
 
 ```{=html} 
 <iframe class="slide-deck" src="r-consortium/capital-asset-pricing-model.html"></iframe>
@@ -16,7 +16,7 @@ Details on the webinar series are [here](https://www.r-consortium.org/tidy-finan
 
 ## R Consortium Webinar: Optimize Portfolios using the Markowitz Model
 
-Details on the webinar series are [here](https://www.r-consortium.org/tidy-finance-webinar-series)
+Details on the webinar series are [here](https://r-consortium.org/webinars/tidy-finance-webinar-series)
 
 ```{=html} 
 <iframe class="slide-deck" src="r-consortium/markowitz-model.html"></iframe>
@@ -38,7 +38,7 @@ Details on the webinar series are [here](https://www.r-consortium.org/tidy-finan
 
 ## R Consortium Webinar: Tidy Finance and Accessing Financial Data
 
-Details on the webinar are [here](https://www.r-consortium.org/new-webinar-tidy-finance-and-accessing-financial-data)
+Details on the webinar are [here](https://www.r-consortium.org/webinars/new-webinar-tidy-finance-and-accessing-financial-data)
 
 ```{=html} 
 <iframe class="slide-deck" src="r-consortium/accessing-financial-data.html"></iframe>
