@@ -36,6 +36,8 @@ website:
         text: Support
       - href: https://www.etsy.com/shop/tidyswag/?etsrc=sdt&utm_source=tidy-finance.org
         text: Swag
+      - href: index.qmd
+        text: Talks
       - href: https://www.tidy-finance.org/workshops/reproducible-research-workflows.html
         text: Workshops
 
