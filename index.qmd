@@ -30,6 +30,8 @@ Details on the webinar series are [here](https://r-consortium.org/webinars/tidy-
 <iframe class="slide-deck" src="posit-conf-2024/slides.html"></iframe>
 ``` 
 
+{{< video (https://www.youtube.com/watch?v=vV7JECvFXNE >}}
+
 ## useR conference 2024
 
 ```{=html} 
