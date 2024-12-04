@@ -4,6 +4,14 @@ metadata:
   description-meta: "A collection of talks about Tidy Finance"
 ---
 
+## R Consortium Webinar: Value Companies using Discounted Cash Flow Analysis
+
+Details on the webinar series are [here](https://r-consortium.org/webinars/tidy-finance-webinar-series)
+
+```{=html} 
+<iframe class="slide-deck" src="r-consortium/discounted-cash-flow-analysis.html"></iframe>
+``` 
+
 ## R Consortium Webinar: Analyze Companies using Financial Ratios
 
 Details on the webinar series are [here](https://r-consortium.org/webinars/tidy-finance-webinar-series)
@@ -11,6 +19,8 @@ Details on the webinar series are [here](https://r-consortium.org/webinars/tidy-
 ```{=html} 
 <iframe class="slide-deck" src="r-consortium/financial-ratios.html"></iframe>
 ``` 
+
+{{< video https://youtu.be/qbG4nMUhNN0?si=mk91Ib3YUbzYU8GB >}}
 
 ## R Consortium Webinar: Evaluate Performance using the Capital Asset Pricing Model
 
@@ -30,7 +40,7 @@ Details on the webinar series are [here](https://r-consortium.org/webinars/tidy-
 <iframe class="slide-deck" src="r-consortium/markowitz-model.html"></iframe>
 ``` 
 
-{{< video (https://www.youtube.com/watch?v=jsdOy0ftZiI&t=3s >}}
+{{< video https://www.youtube.com/watch?v=jsdOy0ftZiI&t=3s >}}
 
 ## posit::conf(2024)
  
@@ -38,7 +48,7 @@ Details on the webinar series are [here](https://r-consortium.org/webinars/tidy-
 <iframe class="slide-deck" src="posit-conf-2024/slides.html"></iframe>
 ``` 
 
-{{< video (https://www.youtube.com/watch?v=vV7JECvFXNE >}}
+{{< video https://www.youtube.com/watch?v=vV7JECvFXNE >}}
 
 ## useR conference 2024
 
@@ -54,4 +64,4 @@ Details on the webinar are [here](https://www.r-consortium.org/webinars/new-webi
 <iframe class="slide-deck" src="r-consortium/accessing-financial-data.html"></iframe>
 ``` 
 
-{{< video (https://www.youtube.com/watch?v=7jtX9Li_Ua4 >}}
+{{< video https://www.youtube.com/watch?v=7jtX9Li_Ua4 >}}
