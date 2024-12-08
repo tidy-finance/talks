@@ -12,6 +12,8 @@ Details on the webinar series are [here](https://r-consortium.org/webinars/tidy-
 <iframe class="slide-deck" src="r-consortium/discounted-cash-flow-analysis.html"></iframe>
 ``` 
 
+{{< video https://youtu.be/g1lVGXUbOHc?si=ZewK0dmrcxkw6qNE >}}
+
 ## R Consortium Webinar: Analyze Companies using Financial Ratios
 
 Details on the webinar series are [here](https://r-consortium.org/webinars/tidy-finance-webinar-series)
