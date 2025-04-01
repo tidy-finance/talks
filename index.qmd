@@ -75,9 +75,13 @@ Details on the webinar series are [here](https://www.r-consortium.org/webinars/n
 ## posit::conf(2024)
  
 ::: {.panel-tabset}
+### Info
+See more infos about the conference [here](https://posit.co/blog/talks-and-workshops-from-posit-conf-2024/).
+
 ### Slides
-<iframe class="slide-deck" src="posit-conf-2024/slides.html"></iframe>
+
 ```{=html}
+<iframe class="slide-deck" src="posit-conf-2024/slides.html"></iframe>
 ```
 
 ### Video
