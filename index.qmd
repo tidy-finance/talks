@@ -4,6 +4,8 @@ metadata:
   description-meta: "A collection of talks about Tidy Finance"
 ---
 
+# Tidy Finance Talks
+
 Over the past years, we gave several talks on Tidy Finance in various venues. Here, we collect a sample of these talks, share the slides, and link videos when they are available. We are always excited to talk about Tidy Finance in general or specific topics - feel free to reach out, and you can also consider our [workshops](https://www.tidy-finance.org/workshops/reproducible-research-workflows.html).
 
 ## R Consortium Webinar: Value Companies using Discounted Cash Flow Analysis
