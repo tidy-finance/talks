@@ -110,7 +110,7 @@ Find the slides and a video recording in the following tabs.
 ::: {.panel-tabset}
 ### Info
 
-Christoph Scheuch gave a talk on *"Accessing and Managing Financial Data with Tidy Finance"* at useR!2024 on July 9, 2024. Find more details about the useR conference 2024 in Salzburg  [here](https://userconf2024.sched.com/event/1c8wI).
+Christoph Scheuch gave a talk on *"Accessing and Managing Financial Data with Tidy Finance"* at useR!2024 on July 9, 2024. Find more details about the useR conference 2024 in Salzburg [here](https://userconf2024.sched.com/event/1c8wI).
 
 Find the slides in the following tab.
 
@@ -139,3 +139,21 @@ Find the slides and a video recording in the following tabs.
 {{< video https://www.youtube.com/watch?v=7jtX9Li_Ua4 >}}
 :::
 
+
+## useR conference 2022
+
+::: {.panel-tabset}
+### Info
+
+Patrick Weiss gave a talk on *"Tidy Finance with R"* at useR!2022 on June 23, 2022. Find more details about the useR conference 2022 [here](https://user2022.r-project.org/program/talks/#session-29-expanding-tidyverse).
+
+Find the slides and a video recording in the following tabs.
+
+### Slides
+```{=html}
+<iframe class="slide-deck" src="user-conference-2022/index.html"></iframe>
+```
+
+### Video
+{{< video https://youtu.be/Cv3e-kyu6YA?si=3wMBYF7u9hsdj_Og&t=38 >}}
+:::
