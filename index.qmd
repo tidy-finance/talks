@@ -9,7 +9,9 @@ metadata:
 ::: {.panel-tabset}
 ### Info
 
-Details on the webinar series are [here](https://www.r-consortium.org/webinars/new-webinar-tidy-finance-and-accessing-financial-data).
+Christoph Scheuch gave a talk on *"Value Companies using Discounted Cash Flow Analysis"* in the R Consortium Webinar on October 9, 2024. Find more details on the webinar series  [here](https://r-consortium.org/webinars/tidy-finance-webinar-series.html).
+
+Find the slides and a video recording in the following tabs.
 
 ### Slides
 ```{=html}
@@ -26,7 +28,9 @@ Details on the webinar series are [here](https://www.r-consortium.org/webinars/n
 ::: {.panel-tabset}
 ### Info
 
-Details on the webinar series are [here](https://www.r-consortium.org/webinars/new-webinar-tidy-finance-and-accessing-financial-data).
+Christoph Scheuch gave a talk on *"Analyze Companies using Financial Ratios"* in the R Consortium Webinar on October 9, 2024. Find more details on the webinar series  [here](https://r-consortium.org/webinars/tidy-finance-webinar-series.html).
+
+Find the slides and a video recording in the following tabs.
 
 ### Slides
 ```{=html}
@@ -43,7 +47,9 @@ Details on the webinar series are [here](https://www.r-consortium.org/webinars/n
 ::: {.panel-tabset}
 ### Info
 
-Details on the webinar series are [here](https://www.r-consortium.org/webinars/new-webinar-tidy-finance-and-accessing-financial-data).
+Christoph Scheuch gave a talk on *"Evaluate Performance using the Capital Asset Pricing Model"* in the R Consortium Webinar on October 9, 2024. Find more details on the webinar series  [here](https://r-consortium.org/webinars/tidy-finance-webinar-series.html).
+
+Find the slides and a video recording in the following tabs.
 
 ### Slides
 ```{=html}
@@ -60,7 +66,10 @@ Details on the webinar series are [here](https://www.r-consortium.org/webinars/n
 ::: {.panel-tabset}
 ### Info
 
-Details on the webinar series are [here](https://www.r-consortium.org/webinars/new-webinar-tidy-finance-and-accessing-financial-data).
+Christoph Scheuch gave a talk on *"Optimize Portfolios using the Markowitz Model"* in the R Consortium Webinar on September 4, 2024. Find more details on the webinar series  [here](https://r-consortium.org/webinars/tidy-finance-webinar-series.html).
+
+Find the slides and a video recording in the following tabs.
+
 
 ### Slides
 ```{=html}
@@ -76,7 +85,10 @@ Details on the webinar series are [here](https://www.r-consortium.org/webinars/n
  
 ::: {.panel-tabset}
 ### Info
-See more infos about the conference [here](https://posit.co/blog/talks-and-workshops-from-posit-conf-2024/).
+
+Christoph Scheuch gave a talk on *"Empowering Reproducible Finance through Tidy Finance"* at posit::conf(2024) on August 14, 2024. Find more details about the conference in Seattle  [here](https://posit.co/blog/talks-and-workshops-from-posit-conf-2024/).
+
+Find the slides and a video recording in the following tabs.
 
 ### Slides
 
@@ -94,6 +106,10 @@ See more infos about the conference [here](https://posit.co/blog/talks-and-works
 ::: {.panel-tabset}
 ### Info
 
+Christoph Scheuch gave a talk on *"Accessing and Managing Financial Data with Tidy Finance"* at useR!2024 on July 9, 2024. Find more details about the useR conference 2024 in Salzburg  [here](https://userconf2024.sched.com/event/1c8wI).
+
+Find the slides in the following tab.
+
 ### Slides
 ```{=html}
 <iframe class="slide-deck" src="user-conference-2024/slides.html"></iframe>
@@ -106,7 +122,9 @@ See more infos about the conference [here](https://posit.co/blog/talks-and-works
 ::: {.panel-tabset}
 ### Info
 
-Details on the webinar series are [here](https://www.r-consortium.org/webinars/new-webinar-tidy-finance-and-accessing-financial-data).
+Christoph Scheuch gave a talk on *"Tidy Finance and Accessing Financial Data"* in the R Consortium Webinar on March 6, 2024. Find more details on the webinar series  [here](https://www.r-consortium.org/webinars/new-webinar-tidy-finance-and-accessing-financial-data).
+
+Find the slides and a video recording in the following tabs.
 
 ### Slides
 ```{=html}
