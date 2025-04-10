@@ -140,6 +140,44 @@ Find the slides and a video recording in the following tabs.
 :::
 
 
+## Workshops for Ukraine: Financial data
+
+::: {.panel-tabset}
+### Info
+
+Patrick Weiss gave a talk on *"TidyFinance: Financial data"* for Workshops for Ukraine on December 5, 2022. Find more details about the Workshops for Ukraine [here](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine#h.fwigobfphvxc).
+
+Find the slides and a video recording in the following tabs.
+
+### Slides
+```{=html}
+<iframe class="slide-deck" src="workshop4ukraine-financial-data/W4U_FD_slides.html"></iframe>
+```
+
+### Video
+A video recording is available for a donation to [Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine).
+:::
+
+
+## Workshops for Ukraine: Empirical asset pricing
+
+::: {.panel-tabset}
+### Info
+
+Patrick Weiss gave a talk on *"TidyFinance: Empirical asset pricing"* for Workshops for Ukraine on October 13, 2022. Find more details about the Workshops for Ukraine [here](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine#h.odr2qchpnqu5).
+
+Find the slides and a video recording in the following tabs.
+
+### Slides
+```{=html}
+<iframe class="slide-deck" src="workshop4ukraine-asset-pricing/W4U_AP_slides.html"></iframe>
+```
+
+### Video
+A video recording is available for a donation to [Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine).
+:::
+
+
 ## useR conference 2022
 
 ::: {.panel-tabset}
