@@ -4,66 +4,194 @@ metadata:
   description-meta: "A collection of talks about Tidy Finance"
 ---
 
+# Tidy Finance Talks
+
+Over the past years, we gave several talks on Tidy Finance in various venues. Here, we collect a sample of these talks, share the slides, and link videos when they are available. We are always excited to talk about Tidy Finance in general or specific topics - feel free to reach out, and you can also consider our [workshops](https://www.tidy-finance.org/workshops/reproducible-research-workflows.html).
+
 ## R Consortium Webinar: Value Companies using Discounted Cash Flow Analysis
 
-Details on the webinar series are [here](https://r-consortium.org/webinars/tidy-finance-webinar-series)
+::: {.panel-tabset}
+### Info
 
-```{=html} 
+Christoph Scheuch gave a talk on *"Value Companies using Discounted Cash Flow Analysis"* in the R Consortium Webinar on October 9, 2024. Find more details on the webinar series  [here](https://r-consortium.org/webinars/tidy-finance-webinar-series.html).
+
+Find the slides and a video recording in the following tabs.
+
+### Slides
+```{=html}
 <iframe class="slide-deck" src="r-consortium/discounted-cash-flow-analysis.html"></iframe>
-``` 
+```
 
+### Video
 {{< video https://youtu.be/g1lVGXUbOHc?si=ZewK0dmrcxkw6qNE >}}
+:::
+
 
 ## R Consortium Webinar: Analyze Companies using Financial Ratios
 
-Details on the webinar series are [here](https://r-consortium.org/webinars/tidy-finance-webinar-series)
+::: {.panel-tabset}
+### Info
 
-```{=html} 
+Christoph Scheuch gave a talk on *"Analyze Companies using Financial Ratios"* in the R Consortium Webinar on October 9, 2024. Find more details on the webinar series  [here](https://r-consortium.org/webinars/tidy-finance-webinar-series.html).
+
+Find the slides and a video recording in the following tabs.
+
+### Slides
+```{=html}
 <iframe class="slide-deck" src="r-consortium/financial-ratios.html"></iframe>
-``` 
+```
 
+### Video
 {{< video https://youtu.be/qbG4nMUhNN0?si=mk91Ib3YUbzYU8GB >}}
+:::
+
 
 ## R Consortium Webinar: Evaluate Performance using the Capital Asset Pricing Model
 
-Details on the webinar series are [here](https://r-consortium.org/webinars/tidy-finance-webinar-series)
+::: {.panel-tabset}
+### Info
 
-```{=html} 
+Christoph Scheuch gave a talk on *"Evaluate Performance using the Capital Asset Pricing Model"* in the R Consortium Webinar on October 9, 2024. Find more details on the webinar series  [here](https://r-consortium.org/webinars/tidy-finance-webinar-series.html).
+
+Find the slides and a video recording in the following tabs.
+
+### Slides
+```{=html}
 <iframe class="slide-deck" src="r-consortium/capital-asset-pricing-model.html"></iframe>
-``` 
+```
 
+### Video
 {{< video (https://www.youtube.com/watch?v=9DdCSpuhkt4 >}}
+:::
+
 
 ## R Consortium Webinar: Optimize Portfolios using the Markowitz Model
 
-Details on the webinar series are [here](https://r-consortium.org/webinars/tidy-finance-webinar-series)
+::: {.panel-tabset}
+### Info
 
-```{=html} 
+Christoph Scheuch gave a talk on *"Optimize Portfolios using the Markowitz Model"* in the R Consortium Webinar on September 4, 2024. Find more details on the webinar series  [here](https://r-consortium.org/webinars/tidy-finance-webinar-series.html).
+
+Find the slides and a video recording in the following tabs.
+
+
+### Slides
+```{=html}
 <iframe class="slide-deck" src="r-consortium/markowitz-model.html"></iframe>
-``` 
+```
 
+### Video
 {{< video https://www.youtube.com/watch?v=jsdOy0ftZiI&t=3s >}}
+:::
+
 
 ## posit::conf(2024)
  
-```{=html} 
-<iframe class="slide-deck" src="posit-conf-2024/slides.html"></iframe>
-``` 
+::: {.panel-tabset}
+### Info
 
+Christoph Scheuch gave a talk on *"Empowering Reproducible Finance through Tidy Finance"* at posit::conf(2024) on August 14, 2024. Find more details about the conference in Seattle  [here](https://posit.co/blog/talks-and-workshops-from-posit-conf-2024/).
+
+Find the slides and a video recording in the following tabs.
+
+### Slides
+
+```{=html}
+<iframe class="slide-deck" src="posit-conf-2024/slides.html"></iframe>
+```
+
+### Video
 {{< video https://www.youtube.com/watch?v=vV7JECvFXNE >}}
+:::
+
 
 ## useR conference 2024
 
-```{=html} 
+::: {.panel-tabset}
+### Info
+
+Christoph Scheuch gave a talk on *"Accessing and Managing Financial Data with Tidy Finance"* at useR!2024 on July 9, 2024. Find more details about the useR conference 2024 in Salzburg [here](https://userconf2024.sched.com/event/1c8wI).
+
+Find the slides in the following tab.
+
+### Slides
+```{=html}
 <iframe class="slide-deck" src="user-conference-2024/slides.html"></iframe>
-``` 
+```
+:::
+
 
 ## R Consortium Webinar: Tidy Finance and Accessing Financial Data
 
-Details on the webinar are [here](https://www.r-consortium.org/webinars/new-webinar-tidy-finance-and-accessing-financial-data)
+::: {.panel-tabset}
+### Info
 
-```{=html} 
+Christoph Scheuch gave a talk on *"Tidy Finance and Accessing Financial Data"* in the R Consortium Webinar on March 6, 2024. Find more details on the webinar series  [here](https://www.r-consortium.org/webinars/new-webinar-tidy-finance-and-accessing-financial-data).
+
+Find the slides and a video recording in the following tabs.
+
+### Slides
+```{=html}
 <iframe class="slide-deck" src="r-consortium/accessing-financial-data.html"></iframe>
-``` 
+```
 
+### Video
 {{< video https://www.youtube.com/watch?v=7jtX9Li_Ua4 >}}
+:::
+
+
+## Workshops for Ukraine: Financial data
+
+::: {.panel-tabset}
+### Info
+
+Patrick Weiss gave a talk on *"TidyFinance: Financial data"* for Workshops for Ukraine on December 5, 2022. Find more details about the Workshops for Ukraine [here](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine#h.fwigobfphvxc).
+
+Find the slides and a video recording in the following tabs.
+
+### Slides
+```{=html}
+<iframe class="slide-deck" src="workshop4ukraine-financial-data/W4U_FD_slides.html"></iframe>
+```
+
+### Video
+A video recording is available for a donation to [Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine).
+:::
+
+
+## Workshops for Ukraine: Empirical asset pricing
+
+::: {.panel-tabset}
+### Info
+
+Patrick Weiss gave a talk on *"TidyFinance: Empirical asset pricing"* for Workshops for Ukraine on October 13, 2022. Find more details about the Workshops for Ukraine [here](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine#h.odr2qchpnqu5).
+
+Find the slides and a video recording in the following tabs.
+
+### Slides
+```{=html}
+<iframe class="slide-deck" src="workshop4ukraine-asset-pricing/W4U_AP_slides.html"></iframe>
+```
+
+### Video
+A video recording is available for a donation to [Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine).
+:::
+
+
+## useR conference 2022
+
+::: {.panel-tabset}
+### Info
+
+Patrick Weiss gave a talk on *"Tidy Finance with R"* at useR!2022 on June 23, 2022. Find more details about the useR conference 2022 [here](https://user2022.r-project.org/program/talks/#session-29-expanding-tidyverse).
+
+Find the slides and a video recording in the following tabs.
+
+### Slides
+```{=html}
+<iframe class="slide-deck" src="user-conference-2022/index.html"></iframe>
+```
+
+### Video
+{{< video https://youtu.be/Cv3e-kyu6YA?si=3wMBYF7u9hsdj_Og&t=38 >}}
+:::
